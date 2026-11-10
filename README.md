@@ -35,7 +35,7 @@ time,magnitude,error
 2459370.46425,11.12620549501326,0.0355829563113959
 ```
 
-The files contain processed photometry, in a common format,and ready to be analyzed; some datasets have been calibrated, rebinned, or had their originally-reported uncertainties adjusted. They should therefore not necessarily be interpreted as raw, unmodified instrumental measurements.
+The files contain processed photometry, provided in a common CSV format for independent analysis. Some datasets have been calibrated, rebinned, or had their originally reported uncertainties adjusted. They should therefore not necessarily be interpreted as raw, unmodified instrumental measurements.
 
 Photometric zero points and passbands differ between observatories. Their magnitudes should not be combined directly without accounting for these differences. The exact time convention of each contributing dataset should also be checked when performing precision timing analyses.
 
